@@ -1714,7 +1714,7 @@ ROW1
 Text GLabel 13100 5900 0    50   Input ~ 0
 ROW2
 Text GLabel 13100 6400 0    50   Input ~ 0
-ROW4
+ROW3
 Wire Wire Line
 	13100 6400 13650 6400
 Wire Wire Line
