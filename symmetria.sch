@@ -387,9 +387,9 @@ Wire Wire Line
 Connection ~ 3650 2950
 Connection ~ 3650 3050
 Text GLabel 3750 3500 0    50   Input ~ 0
-D+
+DBUS+
 Text GLabel 3750 3600 0    50   Input ~ 0
-D-
+DBUS-
 $Comp
 L power:GND #PWR0111
 U 1 1 5F5F6067
